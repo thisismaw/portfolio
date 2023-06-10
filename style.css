@@ -1,0 +1,22 @@
+body {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+.footer_deets {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.certlist-wrap {
+     display: flex;
+    justify-content: center;
+    gap: 10%;
+}
